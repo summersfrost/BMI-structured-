@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634527934 source:c:\users\babe jane\desktop\ub benj\programming\bmistructured\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
